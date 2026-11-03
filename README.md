@@ -4,6 +4,7 @@ A modern, responsive portfolio website showcasing selected web development proje
 
 Built to present real client work in a clean editorial style, this portfolio highlights projects across the mining, managed IT, property management, and consulting industries while reflecting a strong focus on usability, accessibility, and professional presentation.
 
+&ensp;
 ## OVERVIEW
 
 This project serves as a dedicated web development portfolio for **George Itumeleng Dintwe**, a Web Developer and Computer Engineering student based in Cape Town, South Africa.
@@ -16,7 +17,7 @@ The website provides:
 - Contact and networking opportunities
 - Interactive project case studies
 
-
+&ensp;
 ## FEATURED PROJECTS
 
 ### Boikhutso Mining
@@ -80,6 +81,8 @@ Continuous website improvements and maintenance for an established consulting bu
 
 **Website:** https://proudlyassociated.com/
 
+
+&ensp;
 ## FEATURES
 
 ### User Experience
@@ -105,7 +108,8 @@ Continuous website improvements and maintenance for an established consulting bu
 - Focus management
 - Screen reader support
 
-## Technologies Used
+&ensp;
+## TECH STACK USED
 
 ### Front-End
 - HTML5
@@ -122,7 +126,8 @@ Continuous website improvements and maintenance for an established consulting bu
 - Inter
 - Playfair Display
 
-## Project Structure
+&ensp;
+## PROJECT STRUCTUE
 
 ```text
 portfolio/
@@ -138,7 +143,7 @@ portfolio/
 └── README.md
 ```
 
-
+&ensp;
 ## SKILLS & EXPERTISE
 Overview of development capabilities including:
 
@@ -146,6 +151,7 @@ Overview of development capabilities including:
 - WordPress Development
 - Deployment & Maintenance
 
+&ensp;
 ## DESIGN PHILOSOPHY
 
 This portfolio was designed around several core principles:
@@ -160,6 +166,7 @@ This portfolio was designed around several core principles:
 
 The project intentionally avoids excessive animations and visual clutter, allowing the work itself to remain the focal point.
 
+&ensp;
 ## LICENSE
 
 This project is intended for portfolio and professional showcase purposes.
