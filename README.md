@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing selected web development proje
 
 Built to present real client work in a clean editorial style, this portfolio highlights projects across the mining, managed IT, property management, and consulting industries while reflecting a strong focus on usability, accessibility, and professional presentation.
 
-## Overview
+## OVERVIEW
 
 This project serves as a dedicated web development portfolio for **George Itumeleng Dintwe**, a Web Developer and Computer Engineering student based in Cape Town, South Africa.
 
@@ -16,7 +16,8 @@ The website provides:
 - Contact and networking opportunities
 - Interactive project case studies
 
-## Featured Projects
+
+## FEATURED PROJECTS
 
 ### Boikhutso Mining
 **Industry:** Mining & Engineering
@@ -137,38 +138,13 @@ portfolio/
 └── README.md
 ```
 
-### Skills & Expertise
+
+### SKILLS & EXPERTISE
 Overview of development capabilities including:
 
 - Front-end Development
 - WordPress Development
 - Deployment & Maintenance
-
-### About
-Professional background, experience, and career overview.
-
-### Contact
-Direct communication channels and professional networking links.
-
-## Running the Project
-
-Since this is a static website, simply open the project directory and launch:
-
-```bash
-index.html
-```
-
-or run a local server:
-
-```bash
-python -m http.server 8000
-```
-
-Then visit:
-
-```text
-http://localhost:8000
-```
 
 ## Design Philosophy
 
@@ -183,16 +159,6 @@ This portfolio was designed around several core principles:
 - Minimal but meaningful interactions
 
 The project intentionally avoids excessive animations and visual clutter, allowing the work itself to remain the focal point.
-
-## Author
-
-### George Itumeleng Dintwe
-
-Web Developer | AI Automation Engineer | Computer Engineering Student
-
-- GitHub: https://github.com/Dintwe-I
-- Portfolio: https://dintwe-i.github.io/PORTFOLIO-SITE/
-- Email: georgedintwe@outlook.com
 
 ## License
 
