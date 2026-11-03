@@ -80,7 +80,7 @@ Continuous website improvements and maintenance for an established consulting bu
 
 **Website:** https://proudlyassociated.com/
 
-## Features
+## FEATURES
 
 ### User Experience
 - Responsive design
@@ -139,14 +139,14 @@ portfolio/
 ```
 
 
-### SKILLS & EXPERTISE
+## SKILLS & EXPERTISE
 Overview of development capabilities including:
 
 - Front-end Development
 - WordPress Development
 - Deployment & Maintenance
 
-## Design Philosophy
+## DESIGN PHILOSOPHY
 
 This portfolio was designed around several core principles:
 
@@ -160,7 +160,7 @@ This portfolio was designed around several core principles:
 
 The project intentionally avoids excessive animations and visual clutter, allowing the work itself to remain the focal point.
 
-## License
+## LICENSE
 
 This project is intended for portfolio and professional showcase purposes.
 
